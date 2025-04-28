@@ -4,7 +4,7 @@ name: Generate M3U Playlist
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # every 5 minutes
+    - cron: '*/8 * * * *'  # every 7 minutes
   workflow_dispatch:       # allow manual trigger
 
 permissions:
