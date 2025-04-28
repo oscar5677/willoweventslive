@@ -1,0 +1,48 @@
+name: Generate M3U Playlist
+
+
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
+  workflow_dispatch:       # allow manual trigger
+
+permissions:
+  contents: write  # Allow write access to repository contents (for pushing)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+
+    - name: Install Python packages
+      run: |
+        pip install requests
+
+
+    - name: Reset repository cleanly
+      run: |
+        git fetch origin main
+        git reset --hard origin/main
+
+
+    - name: Run Python Script
+      run: python generate_m3u8.py
+
+
+    - name: Commit Changes
+      run: |
+        git config --global user.email "abhiabhigit@users.noreply.github.com"
+        git config --global user.name "abhiabhigit"
+        git add playlist.m3u8
+        git commit -m "Update playlist at $(date -u '+%Y-%m-%d %H:%M:%S') UTC" || echo "No changes to commit"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
