@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-04-29T19:56:33.418358 UTC
+# Updated: 2025-04-29T20:13:02.618984 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,17 +13,5 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed7ea53b-6df9-4080-943d-ab36208df394/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 18th Match - Quetta Gladiators vs Multan Sultans
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d295bfb4976369ddca1a7b50e3c26042:20174f21fce3dfe57ce6e213127a9761
-https://ABGQJFUAAAAAAAAMLXOWYMA2V4BLJ.00b718ba319a4a42b6c5c73b817d1e9e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhtfsjeq9v/out/v1/39af0285e9f74fa095a1df4b5b9f1499/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28c4b87b-ce11-4f6c-bb48-24276a13644f/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Zimbabwe Women tour of USA 2025 - 3rd T20I - United States of America Women vs Zimbabwe Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9513af778d217aa9f5358579712a3f4b:dde969292faa32646bc68d97c3047b34
-https://ABGQJFUAAAAAAAAMAHYAK47NTZUSK.4106c710587f4539908d36554f3af057.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zwc9sg2y8p/out/v1/050791f4630645bcb514b58069047a60/cenc.mpd
 
 
