@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-04-29T12:22:45.659760 UTC
+# Updated: 2025-04-29T13:03:51.797341 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -19,5 +19,11 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a5c128d4321b6f9181dff06780230e0:3a0663824266168b8e36a0b80e8e9a07
 https://a153aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/sgvlgqt8yk/out/v1/bacbd1bae3db45e5a08c92e9ee0139b0/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ed7ea53b-6df9-4080-943d-ab36208df394/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 18th Match - Quetta Gladiators vs Multan Sultans
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d295bfb4976369ddca1a7b50e3c26042:20174f21fce3dfe57ce6e213127a9761
+https://ABGQJFUAAAAAAAAMLXOWYMA2V4BLJ.00b718ba319a4a42b6c5c73b817d1e9e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nhtfsjeq9v/out/v1/39af0285e9f74fa095a1df4b5b9f1499/cenc.mpd
 
 
