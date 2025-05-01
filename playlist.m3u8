@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-01T07:56:30.710027 UTC
+# Updated: 2025-05-01T08:15:16.807146 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,5 +13,11 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a86c42dc-c5fd-420f-a709-13c77fd6f55c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 20th Match - Multan Sultans vs Karachi Kings
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b959d04dadbc0b8c678279d6dac8e61b:88da389e7611124c79000440f6cc5594
+https://ABGQJFUAAAAAAAAMOD353E3JK3FGH.e5f5c0af3c4641fa907069d4ecf86560.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd
 
 
