@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-01T12:57:19.710162 UTC
+# Updated: 2025-05-01T13:22:22.725597 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -21,9 +21,21 @@
 https://ABGQJFUAAAAAAAAMOD353E3JK3FGH.e5f5c0af3c4641fa907069d4ecf86560.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5w309j80jr/out/v1/ca67f40135674ab58e9a5b07baa18338/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 50th Match - Rajasthan Royals vs Mumbai Indians
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a991e709-4741-43c3-9f13-b8e418a16478/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 50th Match - Rajasthan Royals vs Mumbai Indians
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4811508a9b3e58f52a57c70e2aa0a874:c70b165bbd30038116ddd28ef07966a8
 https://ABGQJFUAAAAAAAAMMTH6KPCFZQM2F.eaa294742c5a47b4868b06a53895eebf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38c10660-56d1-44cb-9e30-444712d7979a/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Zimbabwe Women tour of USA 2025 - 1st ODI - United States of America Women vs Zimbabwe Women
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfaea5b63c491e09f50802897dd75ebf:c21494e4a11205e910f400b43321d8c5
+https://ABGQJFUAAAAAAAAMFZWAZWXD73HFL.e8c757d0846340e985fa3f101645cf0d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7xzkeb4rsl/out/v1/e993232ada7345698d7bfc9fae4968fe/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.481c7712-5139-45a9-9df7-8236f4dfa7f3/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 21st Match - Lahore Qalandars vs Quetta Gladiators
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa7d4d8789f6c4f6afadcdf0fee9d754:018b0b58b2554de74b38a1361e06eec3
+https://ABGQJFUAAAAAAAAMLFJIFQ25P7VQ6.55ecabee40194f419007fa1a5860c5d7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ehznrtwf1o/out/v1/62111b1292bf4bebbf8210dd3746b1fe/cenc.mpd
 
 
