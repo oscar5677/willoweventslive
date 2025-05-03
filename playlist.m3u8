@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-03T14:10:32.166792 UTC
+# Updated: 2025-05-03T14:29:03.237453 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -21,15 +21,15 @@
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/upyv4mbcv4/out/v1/877455a9384a40e7a4bb96e166d39ef7/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf8cae6e-77d1-461a-850a-e2d27b1a5d0b/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 23rd Match - Quetta Gladiators vs Islamabad United
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7f501f1ed6f307ebda6b36974d0d334:793cb15a54022828e1845a67293b6a46
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fknpqixsxa/out/v1/71c21a7e057949fbb50a1fa4a9b6fa02/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c74ee6ba-a11e-43d5-a753-86dbb139047c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Zimbabwe Women tour of USA 2025 - 2nd ODI - United States of America Women vs Zimbabwe Women
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=77b33218fb7db9131439ce471948de0d:481bbe98a7eadc24094d1a52842eac9e
 https://a150aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cmejnjtmhq/out/v1/9735fb2a4f3943cfbb7308120b27f544/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cf8cae6e-77d1-461a-850a-e2d27b1a5d0b/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 23rd Match - Quetta Gladiators vs Islamabad United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7f501f1ed6f307ebda6b36974d0d334:793cb15a54022828e1845a67293b6a46
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fknpqixsxa/out/v1/71c21a7e057949fbb50a1fa4a9b6fa02/cenc.mpd
 
 
