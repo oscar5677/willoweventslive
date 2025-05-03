@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-03T22:10:35.881618 UTC
+# Updated: 2025-05-03T22:30:02.965134 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,11 +13,5 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c74ee6ba-a11e-43d5-a753-86dbb139047c/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Zimbabwe Women tour of USA 2025 - 2nd ODI - United States of America Women vs Zimbabwe Women
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77b33218fb7db9131439ce471948de0d:481bbe98a7eadc24094d1a52842eac9e
-https://a150aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cmejnjtmhq/out/v1/9735fb2a4f3943cfbb7308120b27f544/cenc.mpd
 
 
