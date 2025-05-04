@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-04T19:09:17.104885 UTC
+# Updated: 2025-05-04T19:22:50.107669 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,12 +13,6 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.60032bc9-ec16-4276-b0a1-b49a6ec125b6/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 54th Match - Punjab Kings vs Lucknow Super Giants
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8316939c14150de52cff63928ee82cc8:0885e65fbed5e0ffaa986b67ffabe231
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zvd9nwsmbd/out/v1/50dbc8e05a504414b5b38c2746a81e1b/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d857dbfc-29cf-43b9-bb23-50ea6ff22451/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 24th Match - Lahore Qalandars vs Karachi Kings
