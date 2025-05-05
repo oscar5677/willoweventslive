@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-05T19:22:47.453882 UTC
+# Updated: 2025-05-05T19:28:44.558970 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,12 +13,6 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.527a3ed5-eaa8-410d-a06d-a8d5a8acf8ab/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 55th Match - Sunrisers Hyderabad vs Delhi Capitals
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9eca76fa4a884d6f24c57b872a39a43f:b05ae8caec2f5e9682b237d836ddb727
-https://ABGQJFUAAAAAAAAMN7V6FHE24Z32L.415794182ef64bf6a3657306396cd613.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2wz5w9jhat/out/v1/cd1715e7d4ee4befb9c707bd07204233/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.63b30589-4e8f-4602-9a78-9ed6a4bb2740/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 25th Match - Multan Sultans vs Peshawar Zalmi
