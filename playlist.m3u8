@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-08T14:11:04.946083 UTC
+# Updated: 2025-05-08T14:32:37.156589 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -19,11 +19,5 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f7526d76b4ec77e77d64c1c9eddcf992:6ebf591ee0856af0c9b96a662ad98fe2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qxeax9v1j6/out/v1/0469ba87c8e845518dd87f6176dd459c/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.37a7b57c-1c60-406b-b980-d3a2c25ef32f/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fc1afce1df1149c61ec73416defaa28:902056b3d649f68aa9bbf16093d4ec77
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sutt7tunpm/out/v1/ed8d1b8e75734925aceec0a0b34379d0/cenc.mpd
 
 
