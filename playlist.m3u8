@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-10T12:54:20.281373 UTC
+# Updated: 2025-05-10T13:15:41.871426 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,5 +13,17 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0eb411d3-d734-42f0-840d-d1757541a4ad/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 60th Match - Sunrisers Hyderabad vs Kolkata Knight Riders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de38e65bd7d66c60939a9a1fc7c9a598:0d544fc856fb98478ce9507bee6cae57
+https://ABGQJFUAAAAAAAAMMBSS2V55IQJ7M.20d9d04cd14743408cba75d202996a62.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/medo10zjrt/out/v1/0b18f369298741a094671ea8fedeaeb1/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be85ef94-af48-41ff-a390-062871ed4c3e/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 29th Match - Islamabad United vs Karachi Kings
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6abdfdffad9d71ef3b241bf893b9cf0:1c8ade424e2859bdb98451ee8f10a92b
+https://ABGQJFUAAAAAAAAMCB25NZG46ZCBE.414f0ca54fd540bdb0746b29c5ca2a82.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhcjhncy8c/out/v1/1ddd13a90fad47628f70082d648f2515/cenc.mpd
 
 
