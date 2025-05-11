@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-11T21:56:28.448579 UTC
+# Updated: 2025-05-11T22:09:49.265233 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,11 +13,5 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e5ed935b-a7ef-4bb3-b08f-852c29fcd828/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 30th Match - Multan Sultans vs Quetta Gladiators
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549a18546948a86ebaf24cc772fbb93e:90b20c62a84b8e4ac7a0a36bd75a7aba
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hcouernw2m/out/v1/9b0213365fd945669bb1ed59effa2bbf/cenc.mpd
 
 
