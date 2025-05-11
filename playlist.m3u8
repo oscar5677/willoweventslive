@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-11T08:13:35.831184 UTC
+# Updated: 2025-05-11T08:34:19.917404 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,5 +13,11 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aa02e617-a77f-4b0d-8aed-e7b195f7912c/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 61st Match - Punjab Kings vs Mumbai Indians
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=407e49cce4bcc8423dbbd78e0f72469e:779efc2f265c5b28efc051e1a914e37d
+https://ABGQJFUAAAAAAAAMGH2WUYUCL7SAH.b0e1c6798e5f497f9cf92488c97330b5.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/znznpjsprm/out/v1/19e61f0146c4401baa390f69c1242f5c/cenc.mpd
 
 
