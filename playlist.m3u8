@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-17T17:56:41.809782 UTC
+# Updated: 2025-05-17T18:14:38.082509 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -15,7 +15,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a64767a1-4b17-44f7-9f2f-ca91633e16c8/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 58th Match - Royal Challengers Bengaluru vs Kolkata Knight Riders
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a64767a1-4b17-44f7-9f2f-ca91633e16c8/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 58th Match - Royal Challengers Bengaluru vs Kolkata Knight Riders
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ece9c98389916bb83f9c12544d90548e:ef94fda012a15d43bda732d2856d9487
 https://ABGQJFUAAAAAAAAMCDPADDTSSLFBM.bcfe18adea144c378b20e6b5485e939e.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wzpciu2j5y/out/v1/c667ed163dd747a59c88a81d10b6a4db/cenc.mpd
