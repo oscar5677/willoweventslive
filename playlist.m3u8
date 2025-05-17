@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-17T14:50:05.510266 UTC
+# Updated: 2025-05-17T14:56:59.102027 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -27,15 +27,15 @@ https://ABGQJFUAAAAAAAAMCDPADDTSSLFBM.bcfe18adea144c378b20e6b5485e939e.emt.cf.ww
 https://ABGQJFUAAAAAAAAMIIFTSUSJKKUUD.a36e2c570deb4e96bea7ed4473938e1d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iuh3zntdmm/out/v1/2b7a950a8a624ff0ad68c22adcf816dd/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f52c441-f074-4fb6-b297-1e938e9503d2/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1e28b3f00069b47705d4e7c513bed11:f1061f5080d02a19556ed0e21bd4a2d9
+https://ABGQJFUAAAAAAAAMLCQFMITIQZVN4.a8eac70203e04ca19e0ee042e807e4f1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i84lewyaaq/out/v1/3ff2b01beeea4da8a28903504ce49009/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.477d2de5-5e05-47c3-adc5-5e6bde9ba945/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Bangladesh tour of UAE 2025 - 1st T20I - United Arab Emirates vs Bangladesh
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2af021b20804705152d029fc897f39c8:112d190214bfca6febffbfc0ce2651bb
 https://ABGQJFUAAAAAAAAMC4XB24FRDGIWQ.3f3812c2abd7432398194ae0ffcdc333.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/shsrrbyhrc/out/v1/a850780df74a43e5bd2656fa1a3251e4/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8f52c441-f074-4fb6-b297-1e938e9503d2/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 27th Match - Peshawar Zalmi vs Karachi Kings
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1e28b3f00069b47705d4e7c513bed11:f1061f5080d02a19556ed0e21bd4a2d9
-https://ABGQJFUAAAAAAAAMLCQFMITIQZVN4.a8eac70203e04ca19e0ee042e807e4f1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/i84lewyaaq/out/v1/3ff2b01beeea4da8a28903504ce49009/cenc.mpd
 
 
