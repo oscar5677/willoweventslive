@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-18T12:21:06.878649 UTC
+# Updated: 2025-05-18T12:55:58.589213 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -25,5 +25,17 @@ https://ABGQJFUAAAAAAAAMHO7TJATHK72PO.4951dfd59dd84545aa623f64a6e158b4.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9eac6c35c35d9cb3487d9360ebb23c62:b723193f40639356893ae8c8dad27058
 https://ABGQJFUAAAAAAAAMM37PM7NU7CFYG.439445eef14b4eaba980e84e8f25e724.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/usbz98rrrb/out/v1/b07d1e28975644358f39450ae0feba6a/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 60th Match - Delhi Capitals vs Gujarat Titans
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb0149c4ee5c9f50c82d4cffc9551044:0472ea0f977e324e07a820ff7e1f5a1e
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10321e25451df18aa104ac7985578b10:7e835e3da235f946eded90fdf63276f1
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd
 
 
