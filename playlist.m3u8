@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-18T14:09:52.801681 UTC
+# Updated: 2025-05-18T14:29:00.093351 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -15,7 +15,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c53b0a1-ed80-4834-b8f1-7f04330e6a08/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 59th Match - Rajasthan Royals vs Punjab Kings
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c53b0a1-ed80-4834-b8f1-7f04330e6a08/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 59th Match - Rajasthan Royals vs Punjab Kings
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c94fb563c0449c90e701100241c68f28:98d7d278031b3f0420b2f1fb583c1da1
 https://ABGQJFUAAAAAAAAMHO7TJATHK72PO.4951dfd59dd84545aa623f64a6e158b4.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bddbffo4cx/out/v1/c73bdd7f6a7441adbee2294cb6a2dc02/cenc.mpd
