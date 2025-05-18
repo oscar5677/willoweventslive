@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-18T23:10:54.377348 UTC
+# Updated: 2025-05-18T23:27:30.023972 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,11 +13,5 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cc90b035-5a5d-437d-a7f7-51ef868bcada/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - 29th Match - Peshawar Zalmi vs Lahore Qalandars
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=10321e25451df18aa104ac7985578b10:7e835e3da235f946eded90fdf63276f1
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aok2x3fo43/out/v1/252e3027e5734d29a6e259474deecfc6/cenc.mpd
 
 
