@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-19T23:11:22.778564 UTC
+# Updated: 2025-05-19T23:27:23.707358 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -13,11 +13,5 @@
 @https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6589145a-5e72-41c0-b194-0ceaf67adc00/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", ICC CWC League Two 2023-27 - 2nd Match - Oman vs Canada
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86dedbf144530876293bcf31fa97aa69:0d4e4e87a001d89b0a8454e031730edf
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fxn0sl64yz/out/v1/03bf1c1fd0d24eb0a57f3f978dde00e3/cenc.mpd
 
 
