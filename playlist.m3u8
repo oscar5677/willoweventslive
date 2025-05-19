@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-19T14:12:17.653444 UTC
+# Updated: 2025-05-19T14:34:33.408792 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -15,7 +15,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35b8354f-cd36-4647-bb90-1102d9eb4382/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 61st Match - Lucknow Super Giants vs Sunrisers Hyderabad
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.35b8354f-cd36-4647-bb90-1102d9eb4382/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Indian Premier League 2025 - 61st Match - Lucknow Super Giants vs Sunrisers Hyderabad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed9fa22d0e0b71a208d813562f3f1035:49cc5dd088a60a3380c7d44e71b00e4c
 https://ABGQJFUAAAAAAAAMOGRFB5BTAZRTT.3025a5b52a9849469d4c40818986708f.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tt3w1sult9/out/v1/615efe152372485eaf82224836d4d3f0/cenc.mpd
