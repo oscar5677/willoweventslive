@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-21T14:12:25.052587 UTC
+# Updated: 2025-05-21T14:34:30.058932 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -21,6 +21,12 @@
 https://ABGQJFUAAAAAAAAMDZ7HL4OPI42W6.9a8ab70480e0435593fc9baeac7aba25.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dbwb8x52jl/out/v1/b4aadd8404dd4b399230bf0a736c003a/cenc.mpd
 
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/4/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9
+https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.9fd2615764194945a563748f8dab80b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69bb825b088c6a0af78effbfd8012127:4e908e459f111d5cd6fc280aebd28990
@@ -31,11 +37,5 @@ https://ABGQJFUAAAAAAAAMLNAB6NJY42MAQ.8cde551b179140348624bb851e0cfc9d.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=938a4889ebab004e05d942de5dde528c:beec3675cab20450d10084f03fbdf88d
 https://ABGQJFUAAAAAAAAMMNUYZLRMSXIEV.efa74adcfa3746b0a6c03bd15122d8f5.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6f63bcjl8j/out/v1/77acfa8f825f4521925e72b556ff0cdb/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e18a1bea-d064-41ce-9348-c0e0557c0875/3/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", Pakistan Super League 2025 - Qualifier - Quetta Gladiators vs Islamabad United
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb6973bbc4b5f0b879e03ab87cf52bbe:d2a93ab300b5d2fe4638d068fd20a6a9
-https://ABGQJFUAAAAAAAAMMFH7NQ7Y76HS3.9fd2615764194945a563748f8dab80b7.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/csbtu2qj5p/out/v1/81b206f2df07413b8cd203f5c8843b4a/cenc.mpd
 
 
