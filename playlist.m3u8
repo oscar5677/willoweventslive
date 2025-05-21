@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2025-05-21T23:11:07.706886 UTC
+# Updated: 2025-05-21T23:27:15.754025 UTC
 
 
 @#EXTINF:-1 tvg-logo=" https://www.fancode.com/skillup-uploads/fc-web-logo/fc_logo_white_bg.svg  " group-title="Cricket",FANCODE
@@ -15,7 +15,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1e7d62ff-744d-43b5-9a61-674c8adb98ea/2/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg" group-title="Willow", ICC CWC League Two 2023-27 - 3rd Match - United States of America vs Oman
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69bb825b088c6a0af78effbfd8012127:4e908e459f111d5cd6fc280aebd28990
 https://ABGQJFUAAAAAAAAMLNAB6NJY42MAQ.8cde551b179140348624bb851e0cfc9d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rynapnw9su/out/v1/9f928a82c6f94ff995c39e928b3baaea/cenc.mpd
